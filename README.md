@@ -38,7 +38,7 @@ Some key functions and visualizations include:
 
 * 'plot_co2(time_index)': Plots CO2 levels at the specified time index using a PlateCarree projection map.
 * 'plot_oregonAQI(time_index)': Plots the Air Quality Index (AQI) in Oregon for a specific time index.
-* 
+
 Interactive widgets are also available to explore the data:
 
 * Time index slider for CO2 visualization
