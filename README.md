@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook for analyzing satellite-based Carbon
 
 ## Air Quality Index (AQI) Time Lapse Visualization by County
 
-![AQI timelapse of counties](AQI_plot.gif)
+![AQI timelapse of counties](AQI.gif)
 
 
 ## Dependencies
