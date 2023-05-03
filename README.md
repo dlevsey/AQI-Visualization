@@ -16,7 +16,7 @@ To run the notebook, you will need the following Python libraries:
 * pandas
 * seaborn
 * matplotlib
-** netCDF4
+* netCDF4
 * xarray
 * cartopy
 * nc_time_axis
