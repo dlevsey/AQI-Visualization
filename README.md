@@ -1,7 +1,12 @@
 # AQI-Visualization
 Visualizing Satellite CO2 and Air Quality Index Data in Oregon
 ## Satellite Carbon Dioxide Data and Air Quality Index Analysis
-This repository contains a Jupyter Notebook for analyzing satellite-based Carbon Dioxide (CO2) data and Air Quality Index (AQI) data for Oregon
+This repository contains a Jupyter Notebook for analyzing satellite-based Carbon Dioxide (CO2) data and Air Quality Index (AQI) data for Oregon. 
+
+## Air Quality Index (AQI) Time Lapse Visualization by County
+
+![AQI timelapse of counties](AQI_plot.gif)
+
 
 ## Dependencies
 
