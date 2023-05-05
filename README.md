@@ -26,7 +26,7 @@ To run the notebook, you will need the following Python libraries:
 
 You can install these packages using pip:
 
-pip install numpy pandas seaborn matplotlib netCDF4 xarray cartopy nc_time_axis ipywidgets geopandas shapely
+```pip install numpy pandas seaborn matplotlib netCDF4 xarray cartopy nc_time_axis ipywidgets geopandas shapely```
 ## Data 
 The analysis uses the following data sources:
 
@@ -41,8 +41,8 @@ To run the notebook, launch Jupyter Notebook or JupyterLab and open the provided
 
 Some key functions and visualizations include:
 
-* 'plot_co2(time_index)': Plots CO2 levels at the specified time index using a PlateCarree projection map.
-* 'plot_oregonAQI(time_index)': Plots the Air Quality Index (AQI) in Oregon for a specific time index.
+* ```plot_co2(time_index)```: Plots CO2 levels at the specified time index using a PlateCarree projection map.
+* ```plot_oregonAQI(time_index)```: Plots the Air Quality Index (AQI) in Oregon for a specific time index.
 
 Interactive widgets are also available to explore the data:
 
